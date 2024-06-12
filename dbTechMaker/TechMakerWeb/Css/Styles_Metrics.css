@@ -1,0 +1,200 @@
+﻿
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --white: #fafafb;
+    --purple: #892442;
+    --blue-light: #100505eb;
+    --blue-dark: #c22a2a;
+    --green: #430000;
+}
+
+body {
+    background: #edeef6;
+    height: 100vh;
+    font-family: 'Prompt', sans-serif;
+}
+
+.container {
+    max-width: 80%;
+    width: 530px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+/*PERFIL*/
+
+
+
+.perfil h1 {
+    color: black;
+}
+
+.perfil span {
+    color: black;
+    letter-spacing: 1px;
+}
+
+#fecha {
+    color: black;
+    padding: 50px 0 5px 0px;
+}
+
+
+
+
+/*AGREGAR TAREA*/
+.btn-submit {
+    background-color: #892442; /* Color de fondo negro */
+    color: white; /* Color del texto blanco */
+    border: none; /* Sin borde */
+    border-radius: 50%; /* Hace el botón redondo */
+    width: 50px; /* Ancho del botón */
+    height: 50px; /* Altura del botón */
+    display: flex; /* Centra el texto horizontalmente */
+    justify-content: center; /* Centra el texto horizontalmente */
+    align-items: center; /* Centra el texto verticalmente */
+    font-size: 24px; /* Tamaño del texto */
+    cursor: pointer; /* Cambia el cursor a un puntero al pasar sobre el botón */
+    outline: none; /* Elimina el borde del enfoque */
+}
+
+    .btn-submit:hover {
+        background-color: #333; /* Cambia a un gris oscuro al pasar el ratón */
+    }
+
+.btn-submit {
+    content: "\f055";
+}
+
+.btn-svg-icon {
+    background-color: transparent; /* Fondo transparente */
+    border: none; /* Sin borde */
+    cursor: pointer; /* Cursor de puntero */
+    width: 40px; /* Ancho del botón */
+    height: 40px; /* Altura del botón */
+    background-image: url('Images/trash-outline-white.svg'); /* SVG como fondo */
+    background-repeat: no-repeat; /* No repetir la imagen de fondo */
+    background-position: center; /* Centrar la imagen de fondo */
+    background-size: 80%; /* Tamaño de la imagen de fondo */
+    display: inline-flex; /* Alinear el contenido en línea */
+    align-items: center; /* Centrar verticalmente */
+    justify-content: center; /* Centrar horizontalmente */
+    padding: 0;
+    color: white;
+}
+
+    .btn-svg-icon:hover {
+        background-image: url('Images/trash-outline.svg');
+    }
+
+
+.btnr {
+    background-color: #892442;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.agregar-tarea {
+    background-color: #ebebeb;
+    border-radius: 15px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    margin: 40px 0;
+}
+
+    .agregar-tarea .form-control {
+        width: 85%;
+        height: 100%;
+        border-radius: 8px;
+        border: none;
+        background-color: #ebebeb;
+        padding-left: 10px;
+    }
+
+        .agregar-tarea .form-control::placeholder {
+            font-size: 1.1rem;
+            color: var(--purple);
+        }
+
+    .agregar-tarea i {
+        font-size: 50px;
+        color: var(--purple);
+    }
+
+        .agregar-tarea i:hover {
+            transform: scale(1.1);
+            cursor: pointer;
+        }
+
+.container {
+    padding: 50px 55px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    border-radius: 20px;
+    background-color: white;
+}
+/*SECCION DE TAREA */
+.seccion-tarea h3 {
+    color: black;
+    margin-bottom: 20px;
+}
+
+.seccion-tarea li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(to bottom,var(--blue-dark),var(--green));
+    border-radius: 15px;
+    padding: 10px;
+    color: var(--white);
+    margin: 5px 0;
+}
+
+.seccion-tarea i {
+    font-size: 25px;
+}
+
+.seccion-tarea > ul p {
+    font-size: 1.2rem;
+}
+
+
+.seccion-tarea i:hover {
+    color: var(--blue-light);
+    cursor: pointer;
+}
+
+.line-through {
+    text-decoration: line-through;
+    color: var(--blue-light);
+}
+
+.btn-submit-enviar {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #fff;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+    font-weight: 500;
+    background-color: #44A616;
+    transition: background-color .3s;
+    align-content: center;
+}
+
+.btn-submit-enviar:hover {
+    background-color: #28620c;
+    color: #fff;
+}

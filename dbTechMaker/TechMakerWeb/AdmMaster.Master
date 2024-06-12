@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdmMaster.master.cs" Inherits="TechMakerWeb.AdmMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Listado Proyectos</title>
+  
+    <link rel="stylesheet" href="Css/Styles_Menu_Superior.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="menu_top">
+        <nav class="nav_options">
+            <div class="div_logo_position">
+                <img class="logo_img" src="Css/Images/uni.jpg"/>
+                <h1 class="logo_position">TeachMaker</h1>    
+            </div>
+            <ul class="barra_menu">
+                <li class="section_menu"><a class="content_section" href="../Listado_eventos.aspx">Lista de Eventos</a></li>   
+                <li class="section_menu"><a class="content_section" href="../Crud_Eventos.aspx">Crear Evento</a></li>
+                <li class="section_menu"><a class="content_section" href="../Listado_Usuarios.aspx">Crear Usuario</a></li>
+                <li class="section_menu"><a class="content_section" href="../Login.aspx">Cerrar Sesion</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

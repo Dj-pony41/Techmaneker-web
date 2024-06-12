@@ -1,0 +1,1067 @@
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\obj\Debug\TechMake.59343109.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\msi\Desktop\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\obj\Debug\TechMake.59343109.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CopyComplete
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMake.59343109.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\obj\Debug\TechMake.59343109.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.xml
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.xml
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\obj\Debug\TechMake.59343109.Up2Date
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\Hp\source\repos\PR-24-TECHMAKERS\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll.config
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\TechMakerWeb.pdb
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\csc.exe.config
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\csc.rsp
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\csi.exe.config
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\csi.rsp
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Console.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.exe.config
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\vbc.rsp
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\dbTechMaker.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\zxing.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\zxing.presentation.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\QRCoder.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\dbTechMaker.pdb
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\zxing.xml
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\zxing.presentation.xml
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\Newtonsoft.Json.xml
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\bin\Dropbox.Api.xml
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\obj\Debug\TechMake.59343109.Up2Date
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.dll
+C:\Users\Hp\source\repos\Techmaneker web\dbTechMaker\TechMakerWeb\obj\Debug\TechMakerWeb.pdb

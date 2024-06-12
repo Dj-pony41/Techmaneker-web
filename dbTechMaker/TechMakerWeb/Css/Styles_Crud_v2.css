@@ -1,0 +1,159 @@
+﻿:root {
+    --Blanco: #fafafb;
+    --Fondo: #edeef6;
+    --Vino: #892442;
+    --Letras: #5F2939;
+    --Letras_hober: #C5ABB3;
+    --Recuadros: #edeef6;
+    --Recuadros_complemento: #bfbfb2;
+    --VinoComplemento: #770427;
+    --Vino-transparente: #892442b2;
+    --blue-dark: #c22a2a;
+    --green: #430000;
+    --blck: #000000;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--Fondo);
+}
+
+.box-form {
+    padding: 50px 55px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    border-radius: 20px;
+    text-align: center;
+    width: 800px;
+    background-color: var(--Blanco);
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+    .box-form h2 {
+        color: var(--Vino);
+        font-size: 25px;
+        font-stretch: ultra-expanded;
+        font-size: xx-large;
+    }
+
+.form-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+    .form-text a {
+        color: var(--Letras);
+        text-decoration: none;
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+
+        .form-text a:hover {
+            color: var(--Letras_hober);
+        }
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea {
+    background-color: var(--Recuadros);
+    padding: 20px 15px;
+    margin-bottom: 25px;
+    border: 0;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background: var(--Recuadros);
+    background-image: none;
+    flex: 1;
+    padding: 20px 15px;
+    color: var(--blck);
+    cursor: pointer;
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+    select::-ms-expand {
+        display: none;
+    }
+
+.select {
+    position: relative;
+    display: flex;
+    line-height: 4;
+    background: var(--Recuadros_complemento);
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+    .select::after {
+        content: '\25BC';
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 0 1.5em;
+        background: var(--Recuadros_complemento);
+        cursor: pointer;
+        pointer-events: none;
+        transition: .25s all ease;
+    }
+
+    .select:hover::after {
+        color: var(--Blanco);
+    }
+
+
+
+::placeholder {
+    color: var(--blck);
+    font-size: 15px;
+}
+
+:focus {
+    outline: 1px solid var(--Blanco);
+}
+
+.btn {
+    background-color: var(--Vino);
+    color: var(--Blanco);
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.lbl{
+    text-align: left;
+    margin:10px;
+}
+
+.form-control{
+    color: var(--blck);
+}
+
+
+
+@media(max-width:991px) {
+    body {
+        padding: 30px;
+    }
+
+    form {
+        width: 100%;
+    }
+}

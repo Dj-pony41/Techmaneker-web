@@ -1,0 +1,146 @@
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\admin\Desktop\PracticaDiegoRengifoCruz\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\msi\Downloads\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\admin\Desktop\dbTechMaker 2\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\obj\Debug\dbTechMa.DB6326F7.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTeachmaker_v4\dbTechMaker 4\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker 5\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\admin\Desktop\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (40)\dbTechMaker 5\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\Nuevo PC\Downloads\Nueva carpeta (43)\dbTechMaker_con_css\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\obj\Debug\dbTechMa.DB6326F7.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v5\dbTechMaker_con_qr_lector\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CopyComplete
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Users\msi\Downloads\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMa.DB6326F7.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\Dropbox.Api.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\Dropbox.Api.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v6\dbTechMaker_v8\dbTechMaker_v7\dbTechMaker\dbTechMaker\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\dbTechMaker.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\Dropbox.Api.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\QRCoder.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\Dropbox.Api.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.pdb
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\bin\Debug\System.Drawing.Common.xml
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.AssemblyReference.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\obj\Debug\dbTechMa.DB6326F7.Up2Date
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.dll
+C:\Proyectos Visual\Proyecto de sistemas II\dbTechMaker_v7\dbTechMaker_Ver_Qr\dbTechMaker\dbTechMaker\obj\Debug\dbTechMaker.pdb

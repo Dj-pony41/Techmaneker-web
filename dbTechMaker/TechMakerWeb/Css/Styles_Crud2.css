@@ -1,0 +1,159 @@
+﻿body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #f5f5f5;
+}
+
+.container {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-color: #fff;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+	margin-bottom: 20px;
+}
+
+	.form-group label {
+		display: block;
+		font-weight: bold;
+		margin-bottom: 5px;
+	}
+
+	.form-group .form-control {
+		width: 100%;
+		padding: 10px;
+		font-size: 16px;
+		border-radius: 5px;
+		border: 1px solid #ccc;
+	}
+
+	.form-group .btn-submit {
+		width: 100%;
+		padding: 10px;
+		font-size: 16px;
+		background-color: #007bff;
+		color: #fff;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+	}
+
+		.form-group .btn-submit:hover {
+			background-color: #0056b3;
+		}
+
+/* Estilos para la tabla */
+.table-container {
+	width: 100%;
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 18px;
+	font-family: 'Arial', sans-serif;
+}
+
+	.table th, .table td {
+		padding: 12px 15px;
+		border: 1px solid #ddd;
+		text-align: left;
+	}
+
+	.table th {
+		background-color: #009879;
+		color: #ffffff;
+		text-transform: capitalize;
+	}
+
+	.table tbody tr:nth-child(even) {
+		background-color: #f3f3f3;
+	}
+
+	.table tbody tr:hover {
+		background-color: #f1f1f1;
+	}
+
+	.table tbody tr.active-row {
+		font-weight: bold;
+		color: #009879;
+	}
+
+/* Estilos para el estado */
+.status {
+	padding: .4rem 0;
+	border-radius: 2rem;
+	text-align: center;
+	font-weight: 700;
+}
+
+	.status.delivered {
+		color: #006b21;
+	}
+
+	.status.cancelled {
+		color: #b30021;
+	}
+
+	.status.pending {
+		color: #ebc474;
+	}
+
+/* Responsive adjustments */
+@media (max-width: 1000px) {
+	td:not(:first-of-type) {
+		min-width: 12.1rem;
+	}
+}
+
+thead th span.icon-arrow {
+	display: inline-block;
+	width: 1.3rem;
+	height: 1.3rem;
+	border-radius: 50%;
+	border: 1.4px solid transparent;
+	text-align: center;
+	font-size: 1rem;
+	margin-left: .5rem;
+	transition: .2s ease-in-out;
+}
+
+thead th:hover span.icon-arrow {
+	border: 1.4px solid #6c00bd;
+}
+
+thead th:hover {
+	color: #57172a;
+}
+
+thead th.active span.icon-arrow {
+	background-color: #6c00bd;
+	color: #fff;
+}
+
+thead th.asc span.icon-arrow {
+	transform: rotate(180deg);
+}
+
+thead th.active, tbody td.active {
+	color: #6c00bd;
+}

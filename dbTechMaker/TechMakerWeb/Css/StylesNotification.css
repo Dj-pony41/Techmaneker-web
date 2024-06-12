@@ -1,0 +1,109 @@
+﻿body {
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 100px;
+}
+
+.notification-list {
+	list-style-type: none;
+	padding: 0;
+	margin: 35px 0;
+}
+
+.notification-item {
+	background-color: #f9f9f9;
+	margin: 10px 0;
+	padding: 15px;
+	border-radius: 10px;
+	font-size: 18px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	transition: background-color 0.3s ease;
+	display: flex;
+	flex-direction: column;
+}
+
+	.notification-item .notification {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.notification-item .fecha {
+		margin-right: 10px;
+	}
+
+	.notification-item .mensaje {
+		flex-grow: 1;
+	}
+
+	.notification-item.approved {
+		background-color: #a3e6ae; /* Verde para aprobadas */
+	}
+
+	.notification-item.rejected {
+		background-color: #e6a1a1; /* Rojo para rechazadas */
+	}
+
+.detalle-boton {
+	display: flex;
+	justify-content: flex-end; /* Alinea el botón a la derecha */
+	margin-top: 10px; /* Añade un poco de espacio entre el mensaje y el botón */
+}
+
+.btn-detalles {
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 5px 10px;
+	cursor: pointer;
+}
+
+	.btn-detalles:hover {
+		background-color: #0056b3;
+	}
+
+.titleTable {
+	margin-bottom: 20px;
+	font-size: 24px;
+	text-align: center;
+}
+
+.form-group {
+	margin-bottom: 20px;
+}
+
+	.form-group label {
+		display: block;
+		font-weight: bold;
+		margin-bottom: 5px;
+	}
+
+	.form-group .form-control {
+		width: 100%;
+		padding: 15px;
+		font-size: 18px;
+		border-radius: 5px;
+		border: 1px solid #ccc;
+	}
+
+	.form-group .btn-submit {
+		padding: 15px 30px;
+		font-size: 18px;
+		background-color: #007bff;
+		color: #fff;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+		transition: background-color 0.3s ease;
+	}
+
+		.form-group .btn-submit:hover {
+			background-color: #0056b3;
+		}
